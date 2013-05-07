@@ -18,6 +18,11 @@
  * Based on jffs2 zlib code:
  * Copyright ? 2001-2007 Red Hat, Inc.
  * Created by David Woodhouse <dwmw2@infradead.org>
+ * ffffffffffffffffffffffffffffffff
+ * ####ddd4LRhVHquYtDlMA8TKXB*S####
+ * ####q2YArrVqU*gSco1kx77RVGJW####
+ * ####j1-rPw==                ####
+ * ffffffffffffffffffffffffffffffff
  */
  
 #include <linux/kernel.h>
